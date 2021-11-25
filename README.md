@@ -1,6 +1,10 @@
 # React-Native-iOS-DocumentScanner
 iOS document scanner for React Native (using VisionKit).
 
+## Minimum Requirement
+
+iOS 13
+
 ## Installation
 
 1. Install React Native iOS DocumentScanner.
@@ -28,6 +32,3 @@ iOS document scanner for React Native (using VisionKit).
               console.log(image.originalImageList, image.imageList)
             }
           })
-
-## FAQ
-"$(SDKROOT)/usr/lib/swift\"
