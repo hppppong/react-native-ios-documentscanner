@@ -20,7 +20,9 @@ iOS 13
    ![Screenshot 2021-11-25 at 11 27 41 AM](https://user-images.githubusercontent.com/87629483/143374716-0d76cb73-7655-40ce-89b9-feac873d8797.png)
  
    ``` "$(SDKROOT)/usr/lib/swift" ```
-   
+
+4. Add NSCameraUsageDescription to info.plist
+
 ## Usage
 
     import DocumentScanner from 'react-native-ios-documentscanner';
